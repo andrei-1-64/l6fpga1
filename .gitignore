@@ -1,0 +1,7 @@
+db/
+incremental_db/
+simulation/
+*.qws
+*.bak
+**/output_files/*
+!**/output_files/*.sof
